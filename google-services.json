@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266354955587",
+    "project_id": "fir-authdemo-6865e",
+    "storage_bucket": "fir-authdemo-6865e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266354955587:android:35be3bc6de795f4ce24bf6",
+        "android_client_info": {
+          "package_name": "com.chetana.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266354955587-ilnsaqq21vsa8btl6emfsaj11mkdq0qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr2_J-SBK3peOQDr2WDgurxfYP-OGym04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266354955587-ilnsaqq21vsa8btl6emfsaj11mkdq0qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
